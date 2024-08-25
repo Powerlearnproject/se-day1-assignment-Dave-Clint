@@ -5,14 +5,17 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering can be defined as the process of developing solutions for problems in the real world using technology
+
+*Software engineering can be defined as the process of developing solutions for problems in the real world using technology*
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Practical Milestones
 Milestones in action 
 Real life milestones
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Research and Strategy
 Developing the product
 Solutiion
@@ -20,9 +23,11 @@ Testing
 Maintenance
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Agile is flexible and iterative, emphasizing continuous feedback and adaptation. Waterfall is sequential and rigid, with distinct phases completed in order. Agile promotes ongoing collaboration, while Waterfall focuses on thorough planning and execution in predetermined stages
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+#Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 What Software Developer,a Quality Assurance Engineers and a Project Manager . Design test plans, scenarios, scripts, or procedures. Document software defects, using a bug tracking system, and report defects to software developers. Identify, analyze, and document problems with program function, output, online screen, or content.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
